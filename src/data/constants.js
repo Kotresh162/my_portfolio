@@ -273,11 +273,11 @@ export const education = [
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
-    grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    school: "PES UNIVERSITY , BENGALURU",
+    date: "DEC 2021 - MAY 2025",
+    grade: "7.33 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at PES UNIVERSITY,BENGALURU. I have completed 7 semesters and have a CGPA of 7.33. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks and Artificial Inteligence and Machine Learning among others.In my academics i always passoinate about building scalable systems using Backend Frameworks.",
+    degree: "Bachelor of Technology - B.Tech, Computer Science and Engineering",
   },
   {
     id: 1,

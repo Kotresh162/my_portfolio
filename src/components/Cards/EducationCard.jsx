@@ -130,7 +130,7 @@ const Grade = styled.div`
 
 const EducationCard = ({ education }) => {
     return (
-        <Card>
+        <Card key={education.id}>
             <Top>
                 <Image src={education.img} />
                 <Body>
