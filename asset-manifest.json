@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/my_portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/my_portfolio/static/js/main.89ee4089.js",
+    "main.js": "/my_portfolio/static/js/main.779f5663.js",
+    "static/media/siddaganga.png": "/my_portfolio/static/media/siddaganga.285953dbfad238bf573e.png",
+    "static/media/offerletter.png": "/my_portfolio/static/media/offerletter.3307a413478b4b586b29.png",
     "static/media/HeroImage.jpg": "/my_portfolio/static/media/HeroImage.9f163eda0ae8b56423f2.jpg",
     "index.html": "/my_portfolio/index.html",
     "main.bf538fe7.css.map": "/my_portfolio/static/css/main.bf538fe7.css.map",
-    "main.89ee4089.js.map": "/my_portfolio/static/js/main.89ee4089.js.map"
+    "main.779f5663.js.map": "/my_portfolio/static/js/main.779f5663.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.89ee4089.js"
+    "static/js/main.779f5663.js"
   ]
 }
