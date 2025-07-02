@@ -14,7 +14,7 @@ export const Bio = {
     "I am passionate about building innovative and scalable solutions that enhance user experiences. Whether developing mobile applications, web platforms, or backend systems, I enjoy solving complex problems and continuously learning new technologies to improve efficiency and performance.",
   github: "https://github.com/Kotresh162",
   resume:
-    "https://drive.google.com/file/d/1Cotjp8cP93efr9zJurjfFlVxqMVovPvR/view?usp=drive_link",
+    "https://drive.google.com/file/d/1ccjugfnk2FH-FZZo1ebIId1vaNlrwKZF/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kotreshhiremath/",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
